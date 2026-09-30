@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix-dashboard-statistics",
+    "fix-login-retry",
+    "fix/verify-imports-exit-code",
+    "main",
+    "miteshanshu-patch-1",
+    "miteshanshu-patch-2",
+    "miteshanshu-patch-2-1",
+    "origin"
+  ],
+  "parent": {
+    "fix-dashboard-statistics": "main",
+    "fix-login-retry": "main",
+    "fix/verify-imports-exit-code": "main",
+    "main": null,
+    "miteshanshu-patch-1": "main",
+    "miteshanshu-patch-2": "main",
+    "miteshanshu-patch-2-1": "miteshanshu-patch-2",
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix-dashboard-statistics",
+    "fix-login-retry",
+    "fix/verify-imports-exit-code",
+    "miteshanshu-patch-1",
+    "miteshanshu-patch-2",
+    "origin",
+    "miteshanshu-patch-2-1"
+  ]
+}
